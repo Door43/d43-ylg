@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ylg:home|Door43 (ylg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ylg|d43-ylg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ylg/archive/master.zip|d43-ylg.zip]]
+
+**Recent Changes**
+{{changes>ns = ylg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ylg|Ethnologue data]]
+
